@@ -5,8 +5,8 @@
 - 📫 ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/Reyna-Contreras-da/"><img src="https://img.shields.io/badge/-Reyna%20Contreras%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 - 😄 
-- ##Skills⚡:
-- ### 🛠 &nbsp;Tech Stack
+- ⚡
+- ### 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
