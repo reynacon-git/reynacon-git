@@ -2,7 +2,7 @@
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
 - 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
-- 📫 ¿Quieres contactar conmigo? -<a href="https://www.linkedin.com/in/Reyna-Contreras-da/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+- 📫 ¿Quieres contactar conmigo? -<a href="https://www.linkedin.com/in/Reyna-Contreras-da/"><img src="https://img.shields.io/badge/-Reyna%20Contreras%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 - 😄 
 - ##Skills⚡:
