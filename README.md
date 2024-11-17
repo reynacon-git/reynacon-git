@@ -5,6 +5,7 @@
 ![Yellow Lined Illustrative Graphic Design LinkedIn Banner](https://github.com/user-attachments/assets/34f27722-39ff-437f-a7dd-582b9eb799ba)
 
 <h1 align="center"><b>Hola, Soy Reyna Contreras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
 - 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
