@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="C:\Users\ftlei\Downloads\Ivory White Modern Minimalist Corporate Personal Profile LinkedIn Banner.png" width="800"/>
+</div>
 - <h1 align="center"><b>Hola, Soy Reyna Contreras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
