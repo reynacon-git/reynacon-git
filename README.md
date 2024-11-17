@@ -4,7 +4,8 @@
 - 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
 - 📫 ¿Quieres contactar conmigo? -[linkedin](https://linkedin.com/in/reyna-contreras-da)
 - 😄 
-- ⚡ 
+- ##Skills⚡:
+- https://img.shields.io/badge/Python-blue 
 
 <!---
 reynacon-git/reynacon-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
