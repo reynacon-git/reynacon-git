@@ -16,9 +16,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-9933CC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)&nbsp;
 ![Machine_learning](https://img.shields.io/badge/Machine_learning-%23Clojure.svg?style=for-the-badge&logo=Machine_learning&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableu](https://img.shields.io/badge/Tableu-%23ED8B00.svg?style=for-the-badge&logo=Tableu&logoColor=white)&nbsp;
-
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)&nbsp;
+![Tableu](https://img.shields.io/badge/Tableu-D70A53.svg?style=for-the-badge&logo=Tableu&logoColor=white)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![HTML](https://img.shields.io/badge/html-3DDC84.svg?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 
 
