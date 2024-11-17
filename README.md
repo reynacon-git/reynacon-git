@@ -2,7 +2,7 @@
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
 - 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
-- 📫 ¿Quieres contactar conmigo? https://linkedin.com/in/reyna-contreras-da
+- 📫 ¿Quieres contactar conmigo? (linkedin) https://linkedin.com/in/reyna-contreras-da
 - 😄 
 - ⚡ 
 
