@@ -5,7 +5,8 @@
 - 📫 ¿Quieres contactar conmigo? -[linkedin](https://linkedin.com/in/reyna-contreras-da)
 - 😄 
 - ##Skills⚡:
-- https://img.shields.io/badge/Python-blue 
+- [Python] https://img.shields.io/badge/python-blue
+
 
 <!---
 reynacon-git/reynacon-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
