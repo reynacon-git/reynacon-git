@@ -1,4 +1,4 @@
-- 👋 HOLA! Soy Reyna Contreras un gusto conocerte
+- <h1 align="center"><b>Hola, Soy Reyna Contreras un gusto saludarte </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
 - 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
