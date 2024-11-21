@@ -8,11 +8,11 @@
 
 - 👀 Sobre mi: 
 - 🌱 Graduada de Analista de datos 
-- 💞️ Me encantaria comenzar a potenciar empresas con mis conocimientos  
+- 💞️ Me encantaria comenzar a potenciar startups con mis conocimientos  
 - 📫 ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/Reyna-Contreras-da/"><img src="https://img.shields.io/badge/-Reyna%20Contreras%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-- 😄 
-- ⚡
+- 🤓Busco aplicar mis conocimientos en el campo del marketing digital, con un enfoque especial en el análisis de la competencia y la optimización de campañas publicitarias.
+- ✨¿Buscas alguien que transforme? datos en estrategias? ✨
 - ### 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
